@@ -1,0 +1,10 @@
+DROP TABLE truck_delivery;
+DROP TABLE airplane_delivery;
+DROP TABLE warehouse_keep;
+DROP TABLE airplane;
+DROP TABLE truck;
+DROP TABLE warehouse;
+DROP TABLE bill;
+DROP TABLE package;
+DROP TABLE customer;
+DROP TABLE shipper;
